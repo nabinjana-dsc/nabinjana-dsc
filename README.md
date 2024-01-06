@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nabinjana-dsc&label=Profile%20views&color=0e75b6&style=flat" alt="nabinjana-dsc" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabinjana-dsc" alt="nabinjana-dsc" /></a> </p>
-
 - 🔭 I’m currently working on **BookHub Android App**
 
 - 🌱 I’m currently learning **Android App Development**
@@ -19,6 +17,9 @@
 - 📄 Know about my experiences [https://nabinjana-dsc.github.io/cv/](https://nabinjana-dsc.github.io/cv/)
 
 - ⚡ Fun fact **Also I am Funny**
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabinjana-dsc" alt="nabinjana-dsc" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
